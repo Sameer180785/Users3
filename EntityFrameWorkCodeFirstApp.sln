@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameWorkCodeFirstApp", "EntityFrameWorkCodeFirstApp\EntityFrameWorkCodeFirstApp.csproj", "{72E20BF5-95C3-4E4D-B6E1-F9ABD919193D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeWebAPICodeFirst", "ConsumeWebAPICodeFirst\ConsumeWebAPICodeFirst.csproj", "{1FEC91E7-6319-4E40-81B4-B32B49768A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E20BF5-95C3-4E4D-B6E1-F9ABD919193D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E20BF5-95C3-4E4D-B6E1-F9ABD919193D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E20BF5-95C3-4E4D-B6E1-F9ABD919193D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E20BF5-95C3-4E4D-B6E1-F9ABD919193D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEC91E7-6319-4E40-81B4-B32B49768A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEC91E7-6319-4E40-81B4-B32B49768A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEC91E7-6319-4E40-81B4-B32B49768A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEC91E7-6319-4E40-81B4-B32B49768A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D25FF80C-F502-4BE4-959C-9611E806C84D}
+	EndGlobalSection
+EndGlobal
